@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaberriyan514@gmail.com**
 
-- ⚡ Fun fact **Love To Fun**
+- ⚡ Fun fact **I am Coding Addicted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
