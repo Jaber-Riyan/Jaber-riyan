@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **jaberriyan514@gmail.com**
+- 📫 How to reach me **jaberriyan357@gmail.com**
 
 - ⚡ Fun fact **I am Coding Addicted**
 
