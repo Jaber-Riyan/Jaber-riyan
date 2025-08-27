@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">"I am a passionate and dedicated web developer with expertise in React, Node.js, Express.js, MongoDB, MySQL, Python, JavaScript, HTML, CSS, Tailwind, and Bootstrap. I specialize in creating dynamic, responsive, and user-friendly web applications with a strong focus on performance and scalability.With a solid understanding of both frontend and backend development, I love working on full-stack projects.My goal is to build innovative web solutions that not only meet user needs but also make a difference in the digital world." 🚀</p>
+<p align="left">"I am a passionate and dedicated web developer with expertise in React, Node.js, Express.js, MongoDB, MySQL, JavaScript, TypeScript, Mongoose, HTML, CSS, Tailwind, and Bootstrap. I specialize in creating dynamic, responsive, and user-friendly web applications with a strong focus on performance and scalability.With a solid understanding of both frontend and backend development, I love working on full-stack projects.My goal is to build innovative web solutions that not only meet user needs but also make a difference in the digital world." 🚀</p>
 
 ###
 
-<p align="left">- 🔭 I’m working as a Web Developer.<br>- 📚 I'm currently learning Next JS, TypeScript and Improving My Problem-Solving Skills<br>- ⚡ In my free time I Explore New Technologies, Watch Coding Tutorial, Improve English Skills</p>
+<p align="left">- 🔭 I’m working as a Web Developer.<br>- 📚 I'm currently learning Next JS, PostgreSQL and Improving My Problem-Solving Skills<br>- ⚡ In my free time I Explore New Technologies, Watch Coding Tutorial, Improve English Skills</p>
 
 ###
 
@@ -46,10 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="mongoose logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="10" />
