@@ -94,7 +94,7 @@
         <img src="https://skillicons.dev/icons?i=mui" height="40" alt="Material UI" /><br/>Material UI
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=shadcnui" height="40" alt="ShadCN UI" /><br/>ShadCN UI
+        <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="40" alt="ShadCN UI" /><br/>ShadCN UI
       </td>
       <td align="center" width="80">
         🌼<br/>Daisy UI
@@ -116,13 +116,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /><br/>Node JS
       </td>
       <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" /><br/>Express JS
+        <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-397x180.png" height="40" alt="Express.js" /><br/>Express JS
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=mongoose" height="40" alt="Mongoose" /><br/>Mongoose
+        <img src="https://www.vhv.rs/dpng/d/274-2749343_mongoose-js-logo-hd-png-download.png" height="40" alt="Mongoose" /><br/>Mongoose
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=passport" height="40" alt="Passport.js" /><br/>Passport JS
+        <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*tou4RHmmOF-T_DdGK_uT2Q.png" height="40" alt="Passport.js" /><br/>Passport JS
       </td>
     </tr>
   </table>
@@ -151,15 +151,7 @@
   <table>
     <tr>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=stripe" height="40" alt="Stripe" /><br/>Stripe
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.87 28.87" id="stripe">
-        <g id="Layer_2">
-          <g id="Layer_1-2">
-            <rect width="28.87" height="28.87" rx="6.48" ry="6.48" style="fill:#6772e5"></rect>
-            <path d="M13.3 11.2c0-.69.57-1 1.49-1a9.84 9.84 0 0 1 4.37 1.13V7.24a11.6 11.6 0 0 0-4.36-.8c-3.56 0-5.94 1.86-5.94 5 0 4.86 6.68 4.07 6.68 6.17 0 .81-.71 1.07-1.68 1.07A11.06 11.06 0 0 1 9 17.25v4.19a12.19 12.19 0 0 0 4.8 1c3.65 0 6.17-1.8 6.17-5 .03-5.21-6.67-4.27-6.67-6.24z" style="fill:#fff;fill-rule:evenodd"></path>
-          </g>
-        </g>
-      </svg><br/>Stripe
+        <img src="https://download.logo.wine/logo/Stripe_(company)/Stripe_(company)-Logo.wine.png" height="40" alt="Stripe" /><br/>Stripe
       </td>
       <td align="center" width="80">
         <img src="https://developer.sslcommerz.com/doc/v4/assets/img/logo.png" height="40" alt="SSLCommerz" /><br/>SSLCommerz
