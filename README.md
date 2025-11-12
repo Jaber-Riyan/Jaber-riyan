@@ -63,7 +63,7 @@
 ###
 
 <h1 align="center"></h1>
-
+<a href="https://wakatime.com/@9474c8cf-5118-429a-899f-f8262638ea6e"><img src="https://wakatime.com/badge/user/9474c8cf-5118-429a-899f-f8262638ea6e.svg" alt="Total time coded since Aug 11 2025" /></a>
 ###
 
 <div align="center">
