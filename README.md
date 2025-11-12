@@ -152,9 +152,17 @@
     <tr>
       <td align="center" width="80">
         <img src="https://skillicons.dev/icons?i=stripe" height="40" alt="Stripe" /><br/>Stripe
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.87 28.87" id="stripe">
+        <g id="Layer_2">
+          <g id="Layer_1-2">
+            <rect width="28.87" height="28.87" rx="6.48" ry="6.48" style="fill:#6772e5"></rect>
+            <path d="M13.3 11.2c0-.69.57-1 1.49-1a9.84 9.84 0 0 1 4.37 1.13V7.24a11.6 11.6 0 0 0-4.36-.8c-3.56 0-5.94 1.86-5.94 5 0 4.86 6.68 4.07 6.68 6.17 0 .81-.71 1.07-1.68 1.07A11.06 11.06 0 0 1 9 17.25v4.19a12.19 12.19 0 0 0 4.8 1c3.65 0 6.17-1.8 6.17-5 .03-5.21-6.67-4.27-6.67-6.24z" style="fill:#fff;fill-rule:evenodd"></path>
+          </g>
+        </g>
+      </svg><br/>Stripe
       </td>
       <td align="center" width="80">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/SSLCommerz_Logo.png" height="40" alt="SSLCommerz" /><br/>SSLCommerz
+        <img src="https://developer.sslcommerz.com/doc/v4/assets/img/logo.png" height="40" alt="SSLCommerz" /><br/>SSLCommerz
       </td>
     </tr>
   </table>
@@ -170,13 +178,13 @@
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /><br/>GitHub
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=cloudinary" height="40" alt="Cloudinary" /><br/>Cloudinary
+        <img src="https://avatars.githubusercontent.com/u/1460763?s=280&v=4" height="40" alt="Cloudinary" /><br/>Cloudinary
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=axios" height="40" alt="Axios" /><br/>Axios
+        <img src="https://github.com/user-attachments/assets/261d6730-b32d-4809-8a52-1438f8865320" height="40" alt="Axios" /><br/>Axios
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=nodemailer" height="40" alt="Node Mailer" /><br/>Node Mailer
+        <img src="https://nodemailer.com/img/nm_logo_200x136.png" height="40" alt="Node Mailer" /><br/>Node Mailer
       </td>
       <td align="center" width="80">
         🧩<br/>Redux Dev Tool
