@@ -48,86 +48,158 @@
 
 <h1 align="center">🚀 Tech Stack & Skills</h1>
 
-<style>
-.skill-box {
-  display: inline-block;
-  text-align: center;
-  width: 90px;
-  margin: 8px;
-  border-radius: 10px;
-  background: #1a1a1a;
-  padding: 10px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-.skill-box:hover {
-  transform: translateY(-5px);
-  box-shadow: 0px 4px 12px rgba(255,255,255,0.1);
-}
-.skill-box img {
-  height: 40px;
-}
-</style>
+---
 
 <div align="center">
 
-<!-- 🧠 Programming Languages -->
-<h3>🧠 Programming Languages</h3>
-<div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><br/>C</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><br/>C++</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br/>Python</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br/>JavaScript</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br/>TypeScript</div>
-</div>
+  <!-- 🧠 Programming Languages -->
+  <h3>🧠 Programming Languages</h3>
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /><br/>C
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>C++
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>Python
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>JavaScript
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /><br/>TypeScript
+      </td>
+    </tr>
+  </table>
 
-<!-- 🎨 Frontend -->
-<h3>🎨 Frontend Development</h3>
-<div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br/>HTML5</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><br/>CSS3</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br/>React</div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=redux"/><br/>Redux RTK</div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=nextjs"/><br/>Next.js</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/><br/>Firebase</div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind</div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=bootstrap"/><br/>Bootstrap</div>
-  <div class="skill-box"><img src="https://ui.shadcn.com/apple-touch-icon.png"/><br/>ShadCN UI</div>
-</div>
+  <!-- 🎨 Frontend Development -->
+  <h3>🎨 Frontend Development</h3>
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br/>HTML5
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /><br/>CSS3
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /><br/>React JS
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" /><br/>Redux RTK
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /><br/>Next JS
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" /><br/>Firebase
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" /><br/>Tailwind CSS
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /><br/>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=mui" height="40" alt="Material UI" /><br/>Material UI
+      </td>
+      <td align="center" width="80">
+        <img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="ShadCN UI" /><br/>ShadCN UI
+      </td>
+      <td align="center" width="80">
+        🌼<br/>Daisy UI
+      </td>
+      <td align="center" width="80">
+        🧩<br/>Headless UI
+      </td>
+      <td align="center" width="80">
+        ⚡<br/>Origin UI
+      </td>
+    </tr>
+  </table>
 
-<!-- ⚙️ Backend -->
-<h3>⚙️ Backend Development</h3>
-<div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><br/>Node.js</div>
-  <div class="skill-box"><img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-397x180.png"/><br/>Express.js</div>
-  <div class="skill-box"><img src="https://www.vhv.rs/dpng/d/274-2749343_mongoose-js-logo-hd-png-download.png"/><br/>Mongoose</div>
-  <div class="skill-box"><img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*tou4RHmmOF-T_DdGK_uT2Q.png"/><br/>Passport.js</div>
-</div>
+  <!-- ⚙️ Backend Development -->
+  <h3>⚙️ Backend Development</h3>
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /><br/>Node JS
+      </td>
+      <td align="center" width="80">
+        <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-397x180.png" height="40" alt="Express.js" /><br/>Express JS
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vhv.rs/dpng/d/274-2749343_mongoose-js-logo-hd-png-download.png" height="40" alt="Mongoose" /><br/>Mongoose
+      </td>
+      <td align="center" width="80">
+        <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*tou4RHmmOF-T_DdGK_uT2Q.png" height="40" alt="Passport.js" /><br/>Passport JS
+      </td>
+    </tr>
+  </table>
 
-<!-- 🗄️ Databases -->
-<h3>🗄️ Databases</h3>
-<div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><br/>MySQL</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/><br/>MongoDB</div>
-  <div class="skill-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><br/>PostgreSQL</div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=redis"/><br/>Redis</div>
-</div>
+  <!-- 🗄️ Databases -->
+  <h3>🗄️ Databases</h3>
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br/>MySQL
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /><br/>MongoDB
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /><br/>PostgreSQL
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" /><br/>Redis
+      </td>
+    </tr>
+  </table>
 
-<!-- 💳 Payment Gateways -->
-<h3>💳 Payment Gateways</h3>
-<div>
-  <div class="skill-box"><img src="https://download.logo.wine/logo/Stripe_(company)/Stripe_(company)-Logo.wine.png"/><br/>Stripe</div>
-  <div class="skill-box"><img src="https://developer.sslcommerz.com/doc/v4/assets/img/logo.png"/><br/>SSLCommerz</div>
-</div>
+  <!-- 💳 Payment Gateways -->
+  <h3>💳 Payment Gateways</h3>
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://download.logo.wine/logo/Stripe_(company)/Stripe_(company)-Logo.wine.png" height="40" alt="Stripe" /><br/>Stripe
+      </td>
+      <td align="center" width="80">
+        <img src="https://developer.sslcommerz.com/doc/v4/assets/img/logo.png" height="40" alt="SSLCommerz" /><br/>SSLCommerz
+      </td>
+    </tr>
+  </table>
 
-<!-- 🧰 Tools -->
-<h3>🧰 Tools & Utilities</h3>
-<div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</div>
-  <div class="skill-box"><img src="https://skillicons.dev/icons?i=github"/><br/>GitHub</div>
-  <div class="skill-box"><img src="https://avatars.githubusercontent.com/u/1460763?s=280&v=4"/><br/>Cloudinary</div>
-  <div class="skill-box"><img src="https://github.com/user-attachments/assets/261d6730-b32d-4809-8a52-1438f8865320"/><br/>Axios</div>
-  <div class="skill-box"><img src="https://nodemailer.com/img/nm_logo_200x136.png"/><br/>Node Mailer</div>
-</div>
+  <!-- 🧰 Tools & Utilities -->
+  <h3>🧰 Tools & Utilities</h3>
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /><br/>Git
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /><br/>GitHub
+      </td>
+      <td align="center" width="80">
+        <img src="https://avatars.githubusercontent.com/u/1460763?s=280&v=4" height="40" alt="Cloudinary" /><br/>Cloudinary
+      </td>
+      <td align="center" width="80">
+        <img src="https://github.com/user-attachments/assets/261d6730-b32d-4809-8a52-1438f8865320" height="40" alt="Axios" /><br/>Axios
+      </td>
+      <td align="center" width="80">
+        <img src="https://nodemailer.com/img/nm_logo_200x136.png" height="40" alt="Node Mailer" /><br/>Node Mailer
+      </td>
+      <td align="center" width="80">
+        🧩<br/>Redux Dev Tool
+      </td>
+      <td align="center" width="80">
+        ⚛️<br/>React Dev Tool
+      </td>
+    </tr>
+  </table>
 
 </div>
 
