@@ -22,7 +22,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Hey+There!+👋;I'm+Jaber+Ahmed+Riyan;A+Full-Stack+Web+Developer+🚀;Passionate+About+Building+Modern+Apps!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hey+There!+👋+I'm+Jaber+Ahmed+Riyan;A+Full+Stack+Developer+🚀;Passionate+About+Building+Modern+Apps!" alt="Typing SVG" /></a>
 </h1>
 
 ---
