@@ -30,11 +30,9 @@
 
 ###
 
-<h1 align="center">🛠 Skills and Tools</h1>
+<h1 align="center">🚀 Tech Stack & Skills</h1>
 
 ###
-
-<h2 align="center">🚀 Tech Stack & Skills</h2>
 
 <div align="center">
 
@@ -94,7 +92,7 @@
         <img src="https://skillicons.dev/icons?i=mui" height="40" alt="Material UI" /><br/>Material UI
       </td>
       <td align="center" width="80">
-        <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="40" alt="ShadCN UI" /><br/>ShadCN UI
+        <img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="ShadCN UI" /><br/>ShadCN UI
       </td>
       <td align="center" width="80">
         🌼<br/>Daisy UI
